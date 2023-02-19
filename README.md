@@ -14,4 +14,6 @@ Battling will be implemented after a few moves are finished.
 
 Items/Natures to be added later on down the line.
 
-Uses CMake to build.
+Use `cmake .` to generate a Makefile, then `make` to compile the project.
+
+`main` gets put in the `bin` folder, run it with `./bin/main` to start the program.
