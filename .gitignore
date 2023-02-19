@@ -34,3 +34,5 @@ PokemonGame.cbp
 Testing/
 bin/
 CMakeFiles
+.idea/
+cmake-build-debug/
