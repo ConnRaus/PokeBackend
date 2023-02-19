@@ -1,0 +1,41 @@
+Growl,Normal,Status,0,100,40
+Tackle,Normal,Physical,40,100,35
+Vine Whip,Grass,Physical,45,100,25
+Growth,Normal,Status,0,-1,40
+Leech Seed,Grass,Status,0,90,10
+Razor Leaf,Grass,Physical,55,95,25
+Poison Powder,Poison,Status,0,75,35
+Sleep Powder,Grass,Status,0,75,15
+Seed Bomb,Grass,Physical,80,100,15
+Take Down,Normal,Physical,90,85,20
+Sweet Scent,Normal,Status,0,100,20
+Synthesis,Grass,Status,0,-1,5
+Worry Seed,Grass,Status,0,100,10
+Double-Edge,Normal,Physical,120,100,15
+Curse,Ghost,Status,0,-1,10
+Ingrain,Grass,Status,0,-1,20
+Nature Power,Normal,Status,0,-1,20
+Petal Dance,Grass,Special,120,100,10
+Skull Bash,Normal,Physical,130,100,10
+Toxic,Normal,Status,0,90,10
+Grassy Glide,Grass,Physical,70,100,20
+Magical Leaf,Grass,Special,60,-1,20
+Solar Beam,Grass,Special,120,100,10
+Light Screen,Psychic,Status,0,-1,30
+Safeguard,Normal,Status,0,-1,25
+Rest,Psychic,Status,0,-1,10
+Snore,Normal,Special,50,100,15
+Protect,Normal,Status,0,-1,10
+Giga Drain,Grass,Special,75,100,10
+Charm,Fairy,Status,0,100,20
+Attraction,Normal,Status,0,100,15
+Sunny Day,Fire,Status,0,-1,5
+Facade,Normal,Physical,70,100,20
+Helping Hand,Normal,Status,0,-1,20
+Weather Ball,Normal,Special,50,100,10
+Bullet Seed,Grass,Physical,25,100,30
+Venoshock,Poison,Special,65,100,10
+Round,Normal,Special,60,100,15
+Grassy Terrain,Grass,Status,0,-1,10
+False Swipe,Normal,Physical,40,100,40
+Petal Blizzard,Grass,Physical,90,100,15
