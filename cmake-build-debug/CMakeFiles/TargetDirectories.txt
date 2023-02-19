@@ -1,3 +1,0 @@
-/home/cora4829/personal/PokeBackend/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/cora4829/personal/PokeBackend/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/cora4829/personal/PokeBackend/cmake-build-debug/CMakeFiles/main.dir

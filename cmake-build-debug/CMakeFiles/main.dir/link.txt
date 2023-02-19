@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/main.dir/code/main.cpp.o CMakeFiles/main.dir/code/Move.cpp.o CMakeFiles/main.dir/code/MoveLibrary.cpp.o CMakeFiles/main.dir/code/Player.cpp.o CMakeFiles/main.dir/code/Pokemon.cpp.o CMakeFiles/main.dir/code/PokemonLibrary.cpp.o CMakeFiles/main.dir/code/Type.cpp.o  -o bin/main 
