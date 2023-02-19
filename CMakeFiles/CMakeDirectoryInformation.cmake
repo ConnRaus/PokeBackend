@@ -3,8 +3,13 @@
 
 # Relative path conversion top directories.
 <<<<<<< HEAD
+<<<<<<< HEAD
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/cora4829/personal/PokeBackend")
 set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/cora4829/personal/PokeBackend")
+=======
+set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/cora4829/PokeBackend")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/cora4829/PokeBackend")
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 =======
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/cora4829/PokeBackend")
 set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/cora4829/PokeBackend")

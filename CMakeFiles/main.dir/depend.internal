@@ -3,6 +3,7 @@
 
 CMakeFiles/main.dir/code/Move.cpp.o
 <<<<<<< HEAD
+<<<<<<< HEAD
  /home/cora4829/personal/PokeBackend/code/Move.cpp
  /home/cora4829/personal/PokeBackend/code/Move.hpp
  /home/cora4829/personal/PokeBackend/code/Type.hpp
@@ -41,6 +42,8 @@ CMakeFiles/main.dir/code/main.cpp.o
  /home/cora4829/personal/PokeBackend/code/Type.hpp
  /home/cora4829/personal/PokeBackend/code/main.cpp
 =======
+=======
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
  /home/cora4829/PokeBackend/code/Move.cpp
  /home/cora4829/PokeBackend/code/Move.hpp
  /home/cora4829/PokeBackend/code/Type.hpp
@@ -78,4 +81,7 @@ CMakeFiles/main.dir/code/main.cpp.o
  /home/cora4829/PokeBackend/code/PokemonLibrary.hpp
  /home/cora4829/PokeBackend/code/Type.hpp
  /home/cora4829/PokeBackend/code/main.cpp
+<<<<<<< HEAD
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
+=======
 >>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d

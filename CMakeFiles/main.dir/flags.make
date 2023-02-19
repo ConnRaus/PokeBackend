@@ -3,16 +3,22 @@
 
 # compile CXX with /usr/bin/c++
 <<<<<<< HEAD
+<<<<<<< HEAD
 CXX_FLAGS = -g   -std=gnu++17
 
 CXX_DEFINES = 
 
 CXX_INCLUDES = -I/home/cora4829/personal/PokeBackend/code 
 =======
+=======
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 CXX_FLAGS =   -std=gnu++17
 
 CXX_DEFINES = 
 
 CXX_INCLUDES = -I/home/cora4829/PokeBackend/code 
+<<<<<<< HEAD
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
+=======
 >>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 

@@ -44,15 +44,21 @@ EQUALS = =
 
 # The top-level source directory on which CMake was run.
 <<<<<<< HEAD
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/cora4829/personal/PokeBackend
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/cora4829/personal/PokeBackend
 =======
+=======
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 CMAKE_SOURCE_DIR = /home/cora4829/PokeBackend
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/cora4829/PokeBackend
+<<<<<<< HEAD
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
+=======
 >>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 
 # Include any dependencies generated for this target.
@@ -66,6 +72,7 @@ include CMakeFiles/main.dir/flags.make
 
 CMakeFiles/main.dir/code/main.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/code/main.cpp.o: code/main.cpp
+<<<<<<< HEAD
 <<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cora4829/personal/PokeBackend/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/code/main.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/code/main.cpp.o -c /home/cora4829/personal/PokeBackend/code/main.cpp
@@ -156,6 +163,8 @@ CMakeFiles/main.dir/code/Type.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/code/Type.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cora4829/personal/PokeBackend/code/Type.cpp -o CMakeFiles/main.dir/code/Type.cpp.s
 =======
+=======
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cora4829/PokeBackend/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/code/main.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/code/main.cpp.o -c /home/cora4829/PokeBackend/code/main.cpp
 
@@ -244,6 +253,9 @@ CMakeFiles/main.dir/code/Type.cpp.i: cmake_force
 CMakeFiles/main.dir/code/Type.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/code/Type.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cora4829/PokeBackend/code/Type.cpp -o CMakeFiles/main.dir/code/Type.cpp.s
+<<<<<<< HEAD
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
+=======
 >>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 
 # Object files for target main
@@ -269,7 +281,11 @@ bin/main: CMakeFiles/main.dir/code/Type.cpp.o
 bin/main: CMakeFiles/main.dir/build.make
 bin/main: CMakeFiles/main.dir/link.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cora4829/personal/PokeBackend/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable bin/main"
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cora4829/PokeBackend/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable bin/main"
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 =======
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cora4829/PokeBackend/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable bin/main"
 >>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
@@ -286,7 +302,11 @@ CMakeFiles/main.dir/clean:
 
 CMakeFiles/main.dir/depend:
 <<<<<<< HEAD
+<<<<<<< HEAD
 	cd /home/cora4829/personal/PokeBackend && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cora4829/personal/PokeBackend /home/cora4829/personal/PokeBackend /home/cora4829/personal/PokeBackend /home/cora4829/personal/PokeBackend /home/cora4829/personal/PokeBackend/CMakeFiles/main.dir/DependInfo.cmake --color=$(COLOR)
+=======
+	cd /home/cora4829/PokeBackend && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cora4829/PokeBackend /home/cora4829/PokeBackend /home/cora4829/PokeBackend /home/cora4829/PokeBackend /home/cora4829/PokeBackend/CMakeFiles/main.dir/DependInfo.cmake --color=$(COLOR)
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 =======
 	cd /home/cora4829/PokeBackend && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cora4829/PokeBackend /home/cora4829/PokeBackend /home/cora4829/PokeBackend /home/cora4829/PokeBackend /home/cora4829/PokeBackend/CMakeFiles/main.dir/DependInfo.cmake --color=$(COLOR)
 >>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d

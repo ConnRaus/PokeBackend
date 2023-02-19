@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /home/cora4829/personal/PokeBackend/CMakeFiles/rebuild_cache.dir
 /home/cora4829/personal/PokeBackend/CMakeFiles/edit_cache.dir
 /home/cora4829/personal/PokeBackend/CMakeFiles/main.dir
+=======
+/home/cora4829/PokeBackend/CMakeFiles/rebuild_cache.dir
+/home/cora4829/PokeBackend/CMakeFiles/edit_cache.dir
+/home/cora4829/PokeBackend/CMakeFiles/main.dir
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 =======
 /home/cora4829/PokeBackend/CMakeFiles/rebuild_cache.dir
 /home/cora4829/PokeBackend/CMakeFiles/edit_cache.dir
