@@ -6,6 +6,7 @@
 
 #IncludeRegexTransform: 
 
+<<<<<<< HEAD
 /home/cora4829/personal/PokeBackend/code/Move.cpp
 Move.hpp
 /home/cora4829/personal/PokeBackend/code/Move.hpp
@@ -23,17 +24,41 @@ Move.hpp
 /home/cora4829/personal/PokeBackend/code/Move.hpp
 Type.hpp
 /home/cora4829/personal/PokeBackend/code/Type.hpp
+=======
+/home/cora4829/PokeBackend/code/Move.cpp
+Move.hpp
+/home/cora4829/PokeBackend/code/Move.hpp
+
+/home/cora4829/PokeBackend/code/Move.hpp
+Type.hpp
+/home/cora4829/PokeBackend/code/Type.hpp
+string
+-
+
+/home/cora4829/PokeBackend/code/MoveLibrary.cpp
+MoveLibrary.hpp
+/home/cora4829/PokeBackend/code/MoveLibrary.hpp
+Move.hpp
+/home/cora4829/PokeBackend/code/Move.hpp
+Type.hpp
+/home/cora4829/PokeBackend/code/Type.hpp
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 iostream
 -
 fstream
 -
 
+<<<<<<< HEAD
 /home/cora4829/personal/PokeBackend/code/MoveLibrary.hpp
+=======
+/home/cora4829/PokeBackend/code/MoveLibrary.hpp
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 map
 -
 string
 -
 Move.hpp
+<<<<<<< HEAD
 /home/cora4829/personal/PokeBackend/code/Move.hpp
 
 /home/cora4829/personal/PokeBackend/code/Player.cpp
@@ -53,6 +78,27 @@ Type.hpp
 /home/cora4829/personal/PokeBackend/code/Type.hpp
 
 /home/cora4829/personal/PokeBackend/code/Pokemon.hpp
+=======
+/home/cora4829/PokeBackend/code/Move.hpp
+
+/home/cora4829/PokeBackend/code/Player.cpp
+Player.hpp
+/home/cora4829/PokeBackend/code/Player.hpp
+
+/home/cora4829/PokeBackend/code/Player.hpp
+vector
+-
+Pokemon.hpp
+/home/cora4829/PokeBackend/code/Pokemon.hpp
+
+/home/cora4829/PokeBackend/code/Pokemon.cpp
+Pokemon.hpp
+/home/cora4829/PokeBackend/code/Pokemon.hpp
+Type.hpp
+/home/cora4829/PokeBackend/code/Type.hpp
+
+/home/cora4829/PokeBackend/code/Pokemon.hpp
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 string
 -
 vector
@@ -62,6 +108,7 @@ array
 iostream
 -
 Type.hpp
+<<<<<<< HEAD
 /home/cora4829/personal/PokeBackend/code/Type.hpp
 Move.hpp
 /home/cora4829/personal/PokeBackend/code/Move.hpp
@@ -77,17 +124,39 @@ Move.hpp
 /home/cora4829/personal/PokeBackend/code/Move.hpp
 Type.hpp
 /home/cora4829/personal/PokeBackend/code/Type.hpp
+=======
+/home/cora4829/PokeBackend/code/Type.hpp
+Move.hpp
+/home/cora4829/PokeBackend/code/Move.hpp
+
+/home/cora4829/PokeBackend/code/PokemonLibrary.cpp
+PokemonLibrary.hpp
+/home/cora4829/PokeBackend/code/PokemonLibrary.hpp
+MoveLibrary.hpp
+/home/cora4829/PokeBackend/code/MoveLibrary.hpp
+Pokemon.hpp
+/home/cora4829/PokeBackend/code/Pokemon.hpp
+Move.hpp
+/home/cora4829/PokeBackend/code/Move.hpp
+Type.hpp
+/home/cora4829/PokeBackend/code/Type.hpp
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 iostream
 -
 fstream
 -
 
+<<<<<<< HEAD
 /home/cora4829/personal/PokeBackend/code/PokemonLibrary.hpp
+=======
+/home/cora4829/PokeBackend/code/PokemonLibrary.hpp
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 map
 -
 string
 -
 Pokemon.hpp
+<<<<<<< HEAD
 /home/cora4829/personal/PokeBackend/code/Pokemon.hpp
 Move.hpp
 /home/cora4829/personal/PokeBackend/code/Move.hpp
@@ -95,6 +164,19 @@ MoveLibrary.hpp
 /home/cora4829/personal/PokeBackend/code/MoveLibrary.hpp
 
 /home/cora4829/personal/PokeBackend/code/Type.hpp
+=======
+/home/cora4829/PokeBackend/code/Pokemon.hpp
+Move.hpp
+/home/cora4829/PokeBackend/code/Move.hpp
+MoveLibrary.hpp
+/home/cora4829/PokeBackend/code/MoveLibrary.hpp
+
+/home/cora4829/PokeBackend/code/Type.cpp
+Type.hpp
+/home/cora4829/PokeBackend/code/Type.hpp
+
+/home/cora4829/PokeBackend/code/Type.hpp
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 string
 -
 array
@@ -102,6 +184,7 @@ array
 vector
 -
 
+<<<<<<< HEAD
 /home/cora4829/personal/PokeBackend/code/main.cpp
 iostream
 -
@@ -113,4 +196,17 @@ PokemonLibrary.hpp
 /home/cora4829/personal/PokeBackend/code/PokemonLibrary.hpp
 MoveLibrary.hpp
 /home/cora4829/personal/PokeBackend/code/MoveLibrary.hpp
+=======
+/home/cora4829/PokeBackend/code/main.cpp
+iostream
+-
+Pokemon.hpp
+/home/cora4829/PokeBackend/code/Pokemon.hpp
+Player.hpp
+/home/cora4829/PokeBackend/code/Player.hpp
+PokemonLibrary.hpp
+/home/cora4829/PokeBackend/code/PokemonLibrary.hpp
+MoveLibrary.hpp
+/home/cora4829/PokeBackend/code/MoveLibrary.hpp
+>>>>>>> b6ce8acd6e8d5ce129f3e977f2487d316a6b721d
 
