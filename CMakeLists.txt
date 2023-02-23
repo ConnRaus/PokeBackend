@@ -12,9 +12,9 @@ set(SOURCES
         code/Pokemon.cpp
         code/PokemonLibrary.cpp
         code/Type.cpp
-        )
+        code/Arena.hpp code/Arena.cpp)
 
-add_executable(main ${SOURCES})
+add_executable(main ${SOURCES} code/Arena.cpp)
 
 set_target_properties(main PROPERTIES
         RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin"

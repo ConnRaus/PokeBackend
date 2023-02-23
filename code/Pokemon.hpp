@@ -30,15 +30,25 @@ class Pokemon: public PokemonBase {
     public:
         Pokemon(const PokemonBase& base, int level);
         int level() const;
-        std::array<int, 6> current_stats() const;
+        std::array<int, 6> stats() const;
         std::array<int, 6> ivs() const;
         std::array<int, 6> evs() const;
         std::vector<Move> moves() const;
-        int move_pp(int index) const;
+        
+        int current_hp();
+        int status();
+        void set_status(int status);
+        void set_hp(int hp);
+        void hurt(int damage);
+        void heal(int amount);
+        void set_status(int status);
+
         bool set_move(int index, Move move);
         bool add_move(Move move);
         bool remove_move(int index);
+        int move_pp(int index) const;
         void set_move_pp(int index, int pp);
+
         void set_ivs(const std::array<int, 6>& ivs);
         void set_evs(const std::array<int, 6>& evs);
         void randomize_ivs();
@@ -46,12 +56,15 @@ class Pokemon: public PokemonBase {
         void randomize_moves();
         void calculate_stats();
         void print_pokemon() const;
+        
 
     private:
         int level_;
         std::vector<Move> moves_;
         std::vector<int> move_pp_;
-        std::array<int, 6> current_stats_;
+        std::array<int, 6> stats_;
+        int hp_stat_;
+        int status_ = 0;
         std::array<int, 6> ivs_ = {0, 0, 0, 0, 0, 0};
         std::array<int, 6> evs_ = {0, 0, 0, 0, 0, 0};
         

@@ -64,8 +64,8 @@ int Pokemon::level() const {
     return level_;
 }
 
-std::array<int, 6> Pokemon::current_stats() const {
-    return current_stats_;
+std::array<int, 6> Pokemon::stats() const {
+    return stats_;
 }
 
 std::array<int, 6> Pokemon::ivs() const {
@@ -196,11 +196,11 @@ void Pokemon::randomize_moves() {
 
 void Pokemon::calculate_stats() {
     //HP stat calculated differently
-    current_stats_[0] = (2 * base_stats()[0] + ivs_[0] + evs_[0] / 4) * level_ / 100 + level_ + 10;
+    stats_[0] = (2 * base_stats()[0] + ivs_[0] + evs_[0] / 4) * level_ / 100 + level_ + 10;
 
     //Other stats all calculated the same way
     for(int i = 1; i < 6; i++) {
-        current_stats_[i] = (2 * base_stats()[i] + ivs_[i] + evs_[i] / 4) * level_ / 100 + 5;
+        stats_[i] = (2 * base_stats()[i] + ivs_[i] + evs_[i] / 4) * level_ / 100 + 5;
     }
 }
 
@@ -209,8 +209,8 @@ void Pokemon::print_pokemon() const {
     std::cout << "Name: " << name() << std::endl;
     std::cout << "Level: " << level_ << std::endl;
     std::cout << "Current Stats: ";
-    for (size_t i = 0; i < current_stats_.size(); i++) {
-        std::cout << current_stats_[i] << " ";
+    for (size_t i = 0; i < stats_.size(); i++) {
+        std::cout << stats_[i] << " ";
     }
     std::cout << std::endl;
 
