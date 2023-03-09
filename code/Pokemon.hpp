@@ -41,7 +41,6 @@ class Pokemon: public PokemonBase {
         void set_hp(int hp);
         void hurt(int damage);
         void heal(int amount);
-        void set_status(int status);
 
         bool set_move(int index, Move move);
         bool add_move(Move move);
